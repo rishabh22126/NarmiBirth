@@ -21,6 +21,8 @@ import Narmi17 from "../assets/images/Narmi17.jpeg";
 import Narmi18 from "../assets/images/Narmi18.jpeg";
 import Narmi19 from "../assets/images/Narmi19.jpeg";
 import Narmi20 from "../assets/images/Narmi20.jpeg";
+import Narmi28 from "../assets/images/Narmi28.jpeg";
+import Narmi29 from "../assets/images/Narmi29.jpeg";
 /**
  * Centrally managed high-resolution cinematic image assets for Narmatha's Life Journey.
  * This file serves as the singular "image folder" / dictionary for the entire application.
@@ -32,7 +34,7 @@ export const IMAGES = {
     risingWarriorLamp: Narmi2,
     familyWarmLight: Narmi1,
     cseGraduationTech: Narmi4,
-    goldenFestiveSparkle: Narmi5,
+    goldenFestiveSparkle: Narmi28,
   },
 
   // Story Album Slideshow Components
@@ -55,7 +57,7 @@ export const IMAGES = {
 
   // General Memory Highlights & Love Letters
   memories: {
-    celestialSpark: Narmi17,
+    celestialSpark: Narmi29,
     cozyChaiWhispers: Narmi18,
     twilightVelvetGradients: Narmi19, 
     unspokenLoyaltyHands: Narmi20
