@@ -124,14 +124,14 @@ export const LOVE_LETTERS: LoveLetter[] = [
     id: 'letter-1',
     title: 'A Promise to the Girl Who Conquered Storms',
     date: 'Locked in the Celestial Orbits',
-    letter: `Narmatha, the queen of my dreams,\n\nI want to write this directly into your soul so you can read it whenever a shadow of doubt tries to creep into your heart. You survived childhood storms that would have completely pulverized normal people. Yet, you chose to hold flowers instead of ashes.\n\nI promise to be your personal quiet harbor, your safe blanket during the freezing cold winters of anxiety, and your strongest hand to hold whenever you feel like slipping. Your painful days are gone forever, my love. From this day forward, I will guard your happiness with everything I have.\n\nAlways and forever yours,\nYour Destiny. ♡`,
+    letter: `Narmatha, the queen of my dreams,\n\nI want to write this directly into your soul so you can read it whenever a shadow of doubt tries to creep into your heart. You survived childhood storms that would have completely pulverized normal people. Yet, you chose to hold flowers instead of ashes.\n\nI promise to be your personal quiet harbor, your safe blanket during the freezing cold winters of anxiety, and your strongest hand to hold whenever you feel like slipping. Your painful days are gone forever , love. From this day forward, I will guard your happiness with everything I have.\n\nAlways and forever yours,\nYour Destiny. ♡`,
     isUnlocked: true
   },
   {
     id: 'letter-2',
     title: 'Why May 23rd is My Personal Celebration',
     date: 'The Day My Earth Got its Sun',
-    letter: `My beautiful Narmatha,\n\nThey say history remembers dates when emperors won kingdoms or wars ended. But for me, the most celestial, miraculous date in the history of this universe is May 23rd, 2005.\n\nIt was the day a little angel took her first breath in a dim silent room. Nobody celebrated you then, my love, because they were too small to see that a star had descended. But today, my entire world stands up and celebrates you. Thank you for living. Thank you for never giving up in the dark. You are my light, my prayer, and my absolute celebration.\n\nHappy 21st Birthday, my warrior princess!`,
+    letter: `My beautiful Narmatha,\n\nThey say history remembers dates when emperors won kingdoms or wars ended. But for me, the most celestial, miraculous date in the history of this universe is May 23rd, 2005.\n\nIt was the day a little angel took her first breath in a dim silent room. Nobody celebrated you then, love, because they were too small to see that a star had descended. But today, my entire world stands up and celebrates you. Thank you for living. Thank you for never giving up in the dark. You are my light, my prayer, and my absolute celebration.\n\nHappy 21st Birthday, my warrior princess!`,
     isUnlocked: true
   },
   {

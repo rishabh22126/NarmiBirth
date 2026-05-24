@@ -203,10 +203,10 @@ export default function BirthdayScene() {
             transition={{ type: 'spring', duration: 1.4 }}
           >
             <h2 className="text-4xl md:text-6.5xl font-serif tracking-tight text-[#D4AF37] leading-tight font-light italic">
-              Happy Birthday, My Love
+              Happy Birthday, Narmatha
             </h2>
             <p className="text-xs md:text-sm text-[#F9F6F2]/70 font-sans max-w-lg mx-auto italic mt-4 leading-relaxed">
-              "You were born on the 23rd of May, 2005. Today, my world celebrates you. No matter how much time passes, I will choose you, again and again."
+              "You were born on the 23rd of May, 2005. Today, world celebrates you. No matter how much time passes, The life choose you, again and again."
             </p>
           </motion.div>
         )}
